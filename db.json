@@ -59,15 +59,6 @@
   ],
   "videos": [
     {
-      "id": "3a59abaa-1dc7-47e8-9b67-63985e15426e",
-      "title": "Cúando usar Let, Var y Const?",
-      "linkVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
-      "linkImg": "https://i.ytimg.com/vi/PztCEdIJITY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuXRGCpp6yODDhl8oO2DA9QsvjcA",
-      "category": "Front End",
-      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
-      "code": "464564546"
-    },
-    {
       "id": "b25452bd-c2d7-44eb-b3fd-887c964fc9b6",
       "title": "¿Qué es JavaScript?",
       "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
